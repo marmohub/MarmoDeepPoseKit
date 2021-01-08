@@ -1,0 +1,10 @@
+
+pip install numpy
+pip install opencv-contrib-python
+pip install h5py
+pip install matplotlib
+pip install deepposekit
+pip install pandas
+pip install tensorflow
+pip install sklearn
+pip install tqdm
